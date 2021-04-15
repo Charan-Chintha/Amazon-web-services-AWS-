@@ -1,4 +1,4 @@
 #exceute below commands
-aws configure --profile db_user
+aws configure --profile abc_user
 aws_access_key_id = 
 aws_secret_access_key = 
